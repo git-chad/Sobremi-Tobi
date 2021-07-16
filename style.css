@@ -1,0 +1,35 @@
+* {
+    font-family: 'Uchen', serif;
+}
+
+header {
+    background-image: url(img/banner.jpg);
+}
+
+.banner {
+    text-align: center;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+body {
+    background-color: rgb(221, 210, 172);
+    text-align: center;
+    font-size: 16px;
+    
+}
+
+.banner {
+    text-align: center;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+header {
+
+    text-align: center;
+    font-weight: 700;
+    font-size: 25px;
+
+}
+
