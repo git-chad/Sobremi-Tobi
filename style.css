@@ -3,19 +3,24 @@
 }
 
 header {
-    background-image: url(img/banner.jpg);
+    background-image: url(img/banner.png);
+    background-repeat: no-repeat;
+
 }
 
 .banner {
     text-align: center;
     font-weight: 700;
-    font-size: 25px;
+    font-size: 28px;
 }
 
 body {
-    background-color: rgb(221, 210, 172);
+    background-image: url(img/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
     text-align: center;
-    font-size: 16px;
+    font-size: 20px;
+    color: white;
     
 }
 
@@ -33,3 +38,11 @@ header {
 
 }
 
+#sobremi {
+    color: seagreen;
+
+}
+
+.fab    {
+    color:seagreen
+}
